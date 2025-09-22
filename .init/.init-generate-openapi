@@ -1,0 +1,4 @@
+{
+    "command": "npm install && node generate_openapi.js",
+    "working_directory": "/home/kavia/workspace/code-generation/nordic-carpool-platform-89320-89331/blablabil_backend"
+}
